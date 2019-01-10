@@ -4,7 +4,7 @@
       <div class="row">
         <span class="text-white navbar-brand col text-center col-sm">Simpletype</span>
         <span class="navbar-brand col-sm text-center">
-          <a class="text-pirmary" href="https://github.com/ga8291900/simpletype" target="_blank">Github</a>
+          <a class="text-pirmary" href="https://github.com/ga8291900/simpletypef" target="_blank">Github</a>
         </span>
         <span class="text-white navbar-brand col-sm text-center">練習作品 無商業用途</span>
       </div>
