@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="false">
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -10,7 +10,7 @@
         <div class="carousel-item homeImg_xmas active">
           <div class="container">
               <div class="carousel-caption text-left text-secondary">
-                <h1>聖誕節大回饋!!!!</h1>
+                <h1>聖誕節回饋!!!!</h1>
                 <p>輸入優惠碼  <u>Xmas70</u>  結帳金額即以7折計算~~~</p>
               </div>
             </div>
